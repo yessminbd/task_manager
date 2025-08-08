@@ -1,0 +1,70 @@
+# Dashboard React avec Tailwind CSS
+
+Ce projet est un tableau de bord (Dashboard) développé en React et stylé avec Tailwind CSS.  
+Il utilise plusieurs bibliothèques modernes dont Redux Toolkit, React Router, React Hook Form, Recharts, et d'autres.
+
+---
+
+## Technologies utilisées
+
+- React 18
+- Tailwind CSS
+- @headlessui/react
+- Redux Toolkit
+- React Router DOM v6
+- React Hook Form
+- Recharts (pour les graphiques)
+- React Icons
+- Sonner (notifications)
+- Moment.js (gestion des dates)
+- clsx (gestion des classes conditionnelles)
+
+---
+
+## Aperçu des interfaces
+
+### 1. Dashboard - Vue principale
+
+![Dashboard](./images/dashboard.png)
+
+Cette interface affiche le résumé des tâches, leur état (terminé, en cours, à faire), ainsi que des statistiques globales.
+
+---
+
+### 2. Liste des tâches (Tasks)
+
+![Tasks](./images/tasks.png)
+
+Cette interface permet de visualiser toutes les tâches avec leurs priorités, équipes assignées et dates de création.
+
+---
+
+### 3. Équipe (Team)
+
+![Team](./images/team.png)
+
+Page listant les membres de l’équipe avec leurs rôles, statut et date d’ajout.
+
+---
+
+### 4. Paramètres (Settings)
+
+![Settings](./images/settings.png)
+
+Page dédiée aux réglages du compte et préférences utilisateur.
+
+---
+
+
+## Installation et lancement
+
+```bash
+# Cloner le projet
+git clone https://github.com/ton-utilisateur/ton-repo.git
+cd ton-repo
+
+# Installer les dépendances
+npm install
+
+# Lancer l'application en mode développement
+npm start
