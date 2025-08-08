@@ -54,7 +54,6 @@ Page listant les membres de l’équipe avec leurs rôles, statut et date d’aj
 
 ![Settings](./client/src/assets/trash.png)
 
-Page dédiée aux réglages du compte et préférences utilisateur.
 
 ---
 
