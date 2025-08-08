@@ -25,7 +25,7 @@ Il utilise plusieurs bibliothèques modernes dont Redux Toolkit, React Router, R
 
 ### 1. Dashboard - Vue principale
 
-![Dashboard](./images/dashboard.png)
+![Dashboard](./src/assets/dashboard.png)
 
 Cette interface affiche le résumé des tâches, leur état (terminé, en cours, à faire), ainsi que des statistiques globales.
 
