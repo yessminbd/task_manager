@@ -59,15 +59,3 @@ Page dédiée aux réglages du compte et préférences utilisateur.
 ---
 
 
-## Installation et lancement
-
-```bash
-# Cloner le projet
-git clone https://github.com/ton-utilisateur/ton-repo.git
-cd ton-repo
-
-# Installer les dépendances
-npm install
-
-# Lancer l'application en mode développement
-npm start
