@@ -37,6 +37,9 @@ Cette interface affiche le résumé des tâches, leur état (terminé, en cours,
 
 Cette interface permet de visualiser toutes les tâches avec leurs priorités, équipes assignées et dates de création.
 
+![Tasks](./client/src/assets/tasks1.png)
+
+
 ---
 
 ### 3. Équipe (Team)
