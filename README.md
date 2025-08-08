@@ -25,7 +25,7 @@ Il utilise plusieurs bibliothèques modernes dont Redux Toolkit, React Router, R
 
 ### 1. Dashboard - Vue principale
 
-![Dashboard](./src/assets/dashboard.png)
+![Dashboard](./client/src/assets/dashbord.png)
 
 Cette interface affiche le résumé des tâches, leur état (terminé, en cours, à faire), ainsi que des statistiques globales.
 
@@ -33,7 +33,7 @@ Cette interface affiche le résumé des tâches, leur état (terminé, en cours,
 
 ### 2. Liste des tâches (Tasks)
 
-![Tasks](./images/tasks.png)
+![Tasks](./client/src/assets/tasks.png)
 
 Cette interface permet de visualiser toutes les tâches avec leurs priorités, équipes assignées et dates de création.
 
@@ -41,15 +41,15 @@ Cette interface permet de visualiser toutes les tâches avec leurs priorités, �
 
 ### 3. Équipe (Team)
 
-![Team](./images/team.png)
+![Team](./client/src/assets/team.png)
 
 Page listant les membres de l’équipe avec leurs rôles, statut et date d’ajout.
 
 ---
 
-### 4. Paramètres (Settings)
+### 4. Corbeille (Trash)
 
-![Settings](./images/settings.png)
+![Settings](./client/src/assets/trash.png)
 
 Page dédiée aux réglages du compte et préférences utilisateur.
 
