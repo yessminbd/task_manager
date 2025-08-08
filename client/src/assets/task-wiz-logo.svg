@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="wand-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6A11CB" />
+      <stop offset="100%" style="stop-color:#2575FC" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Wand -->
+  <path d="M75 10 L35 90 L25 80 L65 5 Z" fill="url(#wand-gradient)" />
+  
+  <!-- Wand tip -->
+  <circle cx="77" cy="8" r="5" fill="#FFD700" />
+  
+  <!-- Checkmark -->
+  <path d="M15 50 L40 75 L85 25" fill="none" stroke="#4CAF50" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Sparkles -->
+  <circle cx="90" cy="15" r="3" fill="#FFD700" />
+  <circle cx="83" cy="30" r="2.5" fill="#FFD700" />
+  <circle cx="95" cy="40" r="2" fill="#FFD700" />
+</svg>
